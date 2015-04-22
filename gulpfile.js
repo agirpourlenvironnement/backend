@@ -37,7 +37,7 @@
     });
 
     gulp.task('watch', ['typescript'], function () {
-        return gulp.watch(paths.src, ['typescript']);
+        return gulp.watch(paths.src + '.ts', ['typescript']);
     });
 
     gulp.task('default', function () {
