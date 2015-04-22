@@ -1,3 +1,23 @@
-alert("ok");
+/**
+ * Backend API for the Action Platform of Agir pour l’Environnement.
+ * Copyright (C) 2015 Benjamin Menant <bmenant@agirpourlenvironnement.org>
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+// TODO declare and import external modules such as restify and RxJS.
+function hello() {
+    return null;
+}
 
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEtBQUssQ0FBQyxJQUFJLENBQUMsQ0FBQyIsImZpbGUiOiJpbmRleC5qcyIsInNvdXJjZVJvb3QiOiIvaG9tZS9hcGUvV29ya3MvYmFja2VuZC1hY3Rpb24tcGxhdGZvcm0vIiwic291cmNlc0NvbnRlbnQiOlsiYWxlcnQoXCJva1wiKTtcbiJdfQ==
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnRzIl0sIm5hbWVzIjpbImhlbGxvIl0sIm1hcHBpbmdzIjoiQUFBQTs7Ozs7Ozs7Ozs7Ozs7OztHQWdCRztBQUVILEFBRUEscUVBRnFFO1NBRTVELEtBQUs7SUFDVkEsTUFBTUEsQ0FBQ0EsSUFBSUEsQ0FBQUE7QUFDZkEsQ0FBQ0EiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiL2hvbWUvYXBlL1dvcmtzL2JhY2tlbmQtYWN0aW9uLXBsYXRmb3JtLyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQmFja2VuZCBBUEkgZm9yIHRoZSBBY3Rpb24gUGxhdGZvcm0gb2YgQWdpciBwb3VyIGzigJlFbnZpcm9ubmVtZW50LlxuICogQ29weXJpZ2h0IChDKSAyMDE1IEJlbmphbWluIE1lbmFudCA8Ym1lbmFudEBhZ2lycG91cmxlbnZpcm9ubmVtZW50Lm9yZz5cbiAqXG4gKiBUaGlzIHByb2dyYW0gaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeVxuICogaXQgdW5kZXIgdGhlIHRlcm1zIG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZSBhcyBwdWJsaXNoZWQgYnlcbiAqIHRoZSBGcmVlIFNvZnR3YXJlIEZvdW5kYXRpb24sIGVpdGhlciB2ZXJzaW9uIDMgb2YgdGhlIExpY2Vuc2UsIG9yXG4gKiAoYXQgeW91ciBvcHRpb24pIGFueSBsYXRlciB2ZXJzaW9uLlxuICpcbiAqIFRoaXMgcHJvZ3JhbSBpcyBkaXN0cmlidXRlZCBpbiB0aGUgaG9wZSB0aGF0IGl0IHdpbGwgYmUgdXNlZnVsLFxuICogYnV0IFdJVEhPVVQgQU5ZIFdBUlJBTlRZOyB3aXRob3V0IGV2ZW4gdGhlIGltcGxpZWQgd2FycmFudHkgb2ZcbiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gU2VlIHRoZVxuICogR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy5cbiAqXG4gKiBZb3Ugc2hvdWxkIGhhdmUgcmVjZWl2ZWQgYSBjb3B5IG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZVxuICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uIElmIG5vdCwgc2VlIDxodHRwOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvPi5cbiAqL1xuXG4vLyBUT0RPIGRlY2xhcmUgYW5kIGltcG9ydCBleHRlcm5hbCBtb2R1bGVzIHN1Y2ggYXMgcmVzdGlmeSBhbmQgUnhKUy5cblxuZnVuY3Rpb24gaGVsbG8oKTogdm9pZCB7XG4gICAgcmV0dXJuIG51bGxcbn1cbiJdfQ==
