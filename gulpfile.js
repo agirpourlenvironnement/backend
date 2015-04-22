@@ -23,6 +23,7 @@
 
     var tsProject = tsc.createProject({
         target: 'ES5',
+        module: 'commonjs',
     });
 
     gulp.task('typescript', function () {
