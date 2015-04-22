@@ -2,10 +2,24 @@
   "name": "ape-action-platform",
   "version": "0.0.0",
   "description": "Backend API for the Action Platform of Agir pour l’Environnement.",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Benjamin Menant",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "node-restify": "^0.2.1",
+    "rx": "^2.4.10"
+  },
+  "devDependencies": {
+    "async-exec-cmd": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.1",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-typescript": "^2.6.0",
+    "merge2": "^0.3.5",
+    "should": "^5.2.0"
+  }
 }
